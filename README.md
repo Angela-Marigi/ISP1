@@ -5,3 +5,7 @@ This is a marketing web application for fresh farm produce. Consumers are able t
 Database: MySQL and PHP as the server-side programming language. IDE: VSCode
 
 Has: admin module, login, signup, home page, shop page, Chat module
+
+
+
+#1
